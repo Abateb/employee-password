@@ -1,4 +1,4 @@
-ar characterLength = 8;
+var characterLength = 8;
 var choiceArr = [];
 
 var specialCharArr = ["!", "@", "$", "^", "%", "&", ",", "*", "+", "-", ".", "/", "<", ">", "?","~"];
