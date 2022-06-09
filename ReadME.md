@@ -1,3 +1,12 @@
+# Image in ReadME
+
+![pass sc](https://user-images.githubusercontent.com/104156484/172758803-b72e44ea-e43a-47fd-b5e4-f949fa500243.png)
+
+
+
+
+
+
 # Project title
 
 ### Password Generator
@@ -28,7 +37,7 @@
 
 # Application
 
-### The link to the deplouyed application is
+### The link to the deployed application is   https://abateb.github.io/employee-password/
 
 <br/>
 
@@ -47,3 +56,5 @@
 # Credits
 
 ### George washington Coding Bootcamp
+
+### https://github.com/ReindeerCode/JavaScript-Random-Password-Generator/blob/master/script.js  this repo helped a lot!

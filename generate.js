@@ -19,7 +19,7 @@ function writePassword() {
 
   if (correctPrompts) { //assuming prompts are good
   var newPassword = generatePassword(); // if true then id call the generate password function from linwe 30
-  passwordText.value = newPassword; //assuming the new password change update the text and then update document object model, DOM
+  passwordText.value = newPassword; //assuming the new password change, update the text and then update document object model, DOM
 
 } else {
   passwordText.value = "";
@@ -60,8 +60,14 @@ function generatePassword() {
 
     if (confirm("Would you like numbers in your password?")) {
       choiceArr=choiceArr.concat(NumberArr);
+
+
     }
 
     return true;
+
+    console.log (choiceArr)
+
+
 
   }
